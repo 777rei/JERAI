@@ -3,25 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>JERAI — Documentation</title>
-  <style>
-    body { font-family: -apple-system, system-ui, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; color: #333; line-height: 1.7 }
-    h1 { font-size: 28px; margin-bottom: 8px }
-    h2 { font-size: 20px; margin-top: 32px; padding-bottom: 8px; border-bottom: 2px solid #00e676 }
-    h3 { font-size: 16px; margin-top: 20px }
-    code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; font-size: 14px }
-    pre { background: #1a1a2a; color: #eee; padding: 16px; border-radius: 8px; overflow-x: auto; font-size: 13px }
-    ul, ol { padding-left: 20px }
-    li { margin-bottom: 6px }
-    table { width: 100%; border-collapse: collapse; margin: 12px 0 }
-    th, td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #ddd }
-    th { background: #f8f8f8; font-weight: 600 }
-    .note { background: #fffbe6; border-left: 4px solid #ffc107; padding: 12px 16px; margin: 16px 0; border-radius: 0 8px 8px 0 }
-    .warn { background: #fff0f0; border-left: 4px solid #ff5252; padding: 12px 16px; margin: 16px 0; border-radius: 0 8px 8px 0 }
-  </style>
-</head>
-<body>
-
+  
   <h1>JERAI — AI Bodyweight Fitness App</h1>
   <p>Version 1.0 — Documentation</p>
 
