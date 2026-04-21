@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   
-  <h1>JERAI — AI Bodyweight Fitness App</h1>
-  <p>Version 1.0 — Documentation</p>
+  <h1>JERAI — AI Bodyweight Fitness App By Rei </h1>
+  <p>Version 1.0 </p>
 
   <h2>Quick Start</h2>
   <ol>
