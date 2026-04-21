@@ -6,7 +6,7 @@
   
   <h1>JERAI — AI Bodyweight Fitness App By Rei </h1>
   <p>Version 1.0 </p>
-
+<p>https://nabunturanai23b.dpdns.org/ </p>
   <h2>Quick Start</h2>
   <ol>
     <li>Upload all files to your web server</li>
